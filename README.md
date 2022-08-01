@@ -1,2 +1,2 @@
 # rpibootstrap
-Configuração automática de interface para Rasberry Pi OS.
+Configuração automática de interface para Raspberry Pi OS.
