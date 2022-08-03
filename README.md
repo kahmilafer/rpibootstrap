@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  Entretanto, após a <a href="https://www.raspberrypi.com/documentation/computers/getting-started.html">instalação</a> e <a href="https://www.raspberrypi.com/documentation/computers/configuration.html">configuração</a> básica no cartão SD, ele também vem com a "tela preta" somente semelhante o Tiny Core GNU/Linux. :grimacing:
+  Entretanto, após a <a href="https://www.raspberrypi.com/documentation/computers/getting-started.html">instalação</a> e <a href="https://www.raspberrypi.com/documentation/computers/configuration.html">configuração</a> básica no cartão SD, ele também vem com a "tela preta" similar ao Tiny Core GNU/Linux. :grimacing:
 </p>
  
 <h2>Instruções</h2>
