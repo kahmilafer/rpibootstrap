@@ -23,12 +23,8 @@
 
 <h3>Uma versão mais leve do Raspberry Pi OS</h3>
 <p>
-  O Raspberry Pi OS <b>Lite</b> é um sistema operacional pré-otimizado para rodar em Raspberries com menor capacidade de processamento. Por padrão, este sistema operacional não acompanha interface gráfica como o Raspberry Pi OS comum, o que o torna mais leve. 
+  O Raspberry Pi OS <b>Lite</b> é um sistema operacional pré-otimizado para rodar em Raspberries com menor capacidade de processamento. Por padrão, este sistema operacional não acompanha interface gráfica como o Raspberry Pi OS comum, o que o torna mais leve porém com menor praticidade na utilização. 
 </p>
 
-<p>
-  Entretanto, após a <a href="https://www.raspberrypi.com/documentation/computers/getting-started.html">instalação</a> e <a href="https://www.raspberrypi.com/documentation/computers/configuration.html">configuração</a> básica no cartão SD, ele também vem com a "tela preta" similar ao Tiny Core GNU/Linux. :grimacing:
-</p>
- 
 <h2>Instruções</h2>
 <p>Em breve..</p>
