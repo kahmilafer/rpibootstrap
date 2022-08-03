@@ -18,7 +18,7 @@
 </p>
 
 <p>
-  Por ser um procedimento trabalhoso, demorado e que exige do usuário um conhecimento técnico mais aprofundado, automatizar a tarefa de configuração por <i>bootstrapping</i> pode ser vantajoso.
+  Por ser um procedimento trabalhoso, demorado e que exige do usuário um conhecimento técnico mais aprofundado, automatizar a tarefa de configuração de interface por <i>bootstrapping</i> pode ser vantajoso.
 </p>
 
 <h3>Uma versão mais leve do Raspberry Pi OS</h3>
@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  Após a <a href="https://www.raspberrypi.com/documentation/computers/getting-started.html">instalação</a> e <a href="https://www.raspberrypi.com/documentation/computers/configuration.html">configuração</a> básica no cartão SD, assim como no Tiny Core GNU/Linux, ele vem com a "tela preta" somente. :grimacing:
+  Entretanto, após a <a href="https://www.raspberrypi.com/documentation/computers/getting-started.html">instalação</a> e <a href="https://www.raspberrypi.com/documentation/computers/configuration.html">configuração</a> básica no cartão SD, ele também vem com a "tela preta" somente semelhante o Tiny Core GNU/Linux. :grimacing:
 </p>
  
 <h2>Instruções</h2>
